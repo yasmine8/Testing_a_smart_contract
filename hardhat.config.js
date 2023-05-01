@@ -18,6 +18,7 @@ module.exports = {
     }
   },
   gasReporter: {
+    enabled : true,
     currency: 'USD',
     gasPrice: 10
   },
